@@ -1,2 +1,2 @@
 # mutuo-go
-Go project starter tmeplate
+Go project starter template
